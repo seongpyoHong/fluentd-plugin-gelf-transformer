@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Filter Plugin to Transform Parsed Apache Format to GELF Format}
   spec.description   = %q{Filter Plugin to Transform Parsed Apache Format to GELF Format[Full]} 
-  spec.homepage      = "https://github.com/seongpyoHong/fluentd-apache-gelf-kafka-plugins/tree/master/fluent-plugin-gelf-transformer"
+  spec.homepage      = "https://github.com/seongpyoHong/fluentd-plugin-gelf-transformer/tree/master"
   spec.license       = "Apache-2.0"
 
   ### Version Control
